@@ -1,19 +1,25 @@
-.Gerard {
+.column {
+width: 300px;
+float: left;
+box-sizing: border-box;
+}
 
+.Gerard {
+background-color: greenyellow;
 }
 
 .Duane  {
-
+background-color: rgb(145, 183, 216);
 }
 
 .Tim  {
-
+background-color: rgb(235, 182, 102);
 }
 
 .Cid  {
-
+background-color: aquamarine;
 }
 
 .Stacy  {
-  
+background-color: chartreuse;
 }
