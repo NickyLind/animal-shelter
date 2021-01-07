@@ -1,8 +1,16 @@
-.left-pics  {
-  width: 600px;
-  height: auto;
-  overflow: hidden;
+.TopBanner  {
+  background-color: darkorange;
 }
+
+.left-pics  {
+  background-color: chocolate;
+  
+}
+
+.h2 {
+color: darkblue;
+}
+
 .Gerard {
 background-color: greenyellow;
 }
