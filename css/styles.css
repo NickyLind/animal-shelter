@@ -2,31 +2,50 @@
   background-color: darkorange;
 }
 
-.left-pics  {
+.body {
   background-color: chocolate;
-  
 }
 
-.h2 {
-color: darkblue;
+.rightbanner  {
+width: 400px;
+
+background-color: khaki;
+box-sizing: border-box;
 }
 
 .Gerard {
-background-color: greenyellow;
+background-color: lawngreen;
+height:1000px;
+width: 450px;
+float: left;
 }
 
 .Duane  {
 background-color: rgb(145, 183, 216);
+height:1000px;
+width: 450px;
+float: left;
 }
 
 .Tim  {
 background-color: rgb(235, 182, 102);
+height:1000px;
+width: 450px;
+float: left;
 }
 
 .Cid  {
-background-color: aquamarine;}
+background-color: aquamarine;
+height:1000px;
+width: 450px;
+float: left;
+}
+
 
 .Stacy  {
 background-color: chartreuse;
+height:1000px;
+width: 450px;
+float: left;
 
 }
