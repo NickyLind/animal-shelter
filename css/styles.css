@@ -1,18 +1,22 @@
+.TopBanner h1 { 
+  text-align: center;
+}
+
+.TopBanner p {
+  text-align: center;
+}
+
 .TopBanner  {
-  background-color: darkorange;
+  background-color: rgb(255, 0, 242);
+  color: rgb(33, 27, 110);
 }
 
-.body {
-  background-color: chocolate;
+body{
+  background-color: coral;
 }
-
-.rightbanner  {
-width: 400px;
-
-background-color: khaki;
-box-sizing: border-box;
+body h4 {
+font-size: 25px;
 }
-
 .Gerard {
 background-color: lawngreen;
 height:1000px;
@@ -43,7 +47,7 @@ float: left;
 
 
 .Stacy  {
-background-color: chartreuse;
+background-color: rgb(255, 72, 0);
 height:1000px;
 width: 450px;
 float: left;
