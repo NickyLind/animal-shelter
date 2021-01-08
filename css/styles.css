@@ -11,6 +11,10 @@
   color: rgb(33, 27, 110);
 }
 
+body h2 {
+text-align:center;
+}
+
 body{
   background-color: coral;
 }
@@ -52,4 +56,9 @@ height:1000px;
 width: 450px;
 float: left;
 
+}
+
+.img {
+  width: 450px;
+  height: 600px;
 }
